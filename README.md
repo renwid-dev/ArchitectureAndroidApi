@@ -8,3 +8,7 @@ ArchitectureAndroidApi mengenal type data json object dan json array
     implementation 'com.squareup.retrofit2:converter-gson:2.6.2'
     implementation 'androidx.recyclerview:recyclerview:1.1.0'
     implementation 'androidx.cardview:cardview:1.0.0'
+    
+    example API
+    - https://reqres.in/api/users
+    - https://jsonplaceholder.typicode.com/posts
